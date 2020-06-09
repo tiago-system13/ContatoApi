@@ -1,0 +1,17 @@
+C:\bdiProva-senior\bdiRepositorio\bin\Debug\netcoreapp2.2\bdiEntidades.dll
+C:\bdiProva-senior\bdiRepositorio\bin\Debug\netcoreapp2.2\bdiNegocios.dll
+C:\bdiProva-senior\bdiRepositorio\obj\Debug\netcoreapp2.2\bdiRepositorio.csprojAssemblyReference.cache
+C:\bdiProva-senior\bdiRepositorio\obj\Debug\netcoreapp2.2\bdiRepositorio.AssemblyInfoInputs.cache
+C:\bdiProva-senior\bdiRepositorio\obj\Debug\netcoreapp2.2\bdiRepositorio.AssemblyInfo.cs
+C:\bdiProva-senior\bdiRepositorio\bin\Debug\netcoreapp2.2\bdiRepositorio.deps.json
+C:\bdiProva-senior\bdiRepositorio\bin\Debug\netcoreapp2.2\bdiRepositorio.runtimeconfig.json
+C:\bdiProva-senior\bdiRepositorio\bin\Debug\netcoreapp2.2\bdiRepositorio.runtimeconfig.dev.json
+C:\bdiProva-senior\bdiRepositorio\bin\Debug\netcoreapp2.2\bdiRepositorio.dll
+C:\bdiProva-senior\bdiRepositorio\bin\Debug\netcoreapp2.2\bdiRepositorio.pdb
+C:\bdiProva-senior\bdiRepositorio\bin\Debug\netcoreapp2.2\bdiEntidades.pdb
+C:\bdiProva-senior\bdiRepositorio\bin\Debug\netcoreapp2.2\bdiNegocios.pdb
+C:\bdiProva-senior\bdiRepositorio\obj\Debug\netcoreapp2.2\bdiRepositorio.csproj.CoreCompileInputs.cache
+C:\bdiProva-senior\bdiRepositorio\obj\Debug\netcoreapp2.2\bdiRepositorio.csproj.CopyComplete
+C:\bdiProva-senior\bdiRepositorio\obj\Debug\netcoreapp2.2\bdiRepositorio.dll
+C:\bdiProva-senior\bdiRepositorio\obj\Debug\netcoreapp2.2\bdiRepositorio.pdb
+C:\bdiProva-senior\bdiRepositorio\obj\Debug\netcoreapp2.2\bdiRepositorio.genruntimeconfig.cache
