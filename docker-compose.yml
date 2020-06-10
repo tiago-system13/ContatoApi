@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  contatoapi:
+    image: contatoapi
+    build:
+      context: .
+    ports:
+      - "44335:80"
+    networks:
+      - marvel-network
+    depends_on:
+      - "db_sql_server_contato"
+
+  db_sql_server_contato:
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    environment:
+            SA_PASSWORD: "Enquet&api10"
+            ACCEPT_EULA: "Y"
+    ports:
+      - "1430:1430"
+    networks:
+      - marvel-network
+
+networks: 
+    marvel-network:
+        driver: bridge
