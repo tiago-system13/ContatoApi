@@ -1,0 +1,15 @@
+services:
+  bdiapi:
+    build:
+      context: C:\bdiProva-senior
+      dockerfile: bdiApi/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: bdiapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\Tiago.Santana\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+version: '3.4'

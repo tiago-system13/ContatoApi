@@ -1,24 +1,33 @@
-version: '3'
+version: '3.4'
 
 services:
   contatoapi:
-    image: contatoapi
+    image: contatoapi-teste
     build:
       context: .
+      dockerfile: bdiApi/Dockerfile
+    environment:
+      TZ: America/Sao_Paulo 
     ports:
-      - "44335:80"
+      - "4433:80"
+    links:
+      - db_api_contato_sqlserver
+    depends_on:
+      - db_api_contato_sqlserver
     networks:
       - marvel-network
-    depends_on:
-      - "db_sql_server_contato"
 
-  db_sql_server_contato:
-    image: mcr.microsoft.com/mssql/server:2017-latest
+  db_api_contato_sqlserver:
+    image: db_api_contato_sqlserver  
+    build:
+     context: .
+     dockerfile: db/Dockerfile
     environment:
-            SA_PASSWORD: "Enquet&api10"
-            ACCEPT_EULA: "Y"
+      TZ: America/Sao_Paulo
+      SA_PASSWORD: "contato@pi10"
+      ACCEPT_EULA: "Y"
     ports:
-      - "1430:1430"
+      - "1401:1433"
     networks:
       - marvel-network
 

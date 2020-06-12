@@ -13,7 +13,6 @@ C:\bdiProva-senior\bdiApi\bin\Debug\netcoreapp2.2\bdiEntidades.pdb
 C:\bdiProva-senior\bdiApi\bin\Debug\netcoreapp2.2\bdiNegocios.pdb
 C:\bdiProva-senior\bdiApi\bin\Debug\netcoreapp2.2\bdiRepositorio.pdb
 C:\bdiProva-senior\bdiApi\obj\Debug\netcoreapp2.2\bdiApi.csprojAssemblyReference.cache
-C:\bdiProva-senior\bdiApi\obj\Debug\netcoreapp2.2\bdiApi.csproj.CoreCompileInputs.cache
 C:\bdiProva-senior\bdiApi\obj\Debug\netcoreapp2.2\bdiApi.RazorAssemblyInfo.cache
 C:\bdiProva-senior\bdiApi\obj\Debug\netcoreapp2.2\bdiApi.RazorAssemblyInfo.cs
 C:\bdiProva-senior\bdiApi\obj\Debug\netcoreapp2.2\bdiApi.AssemblyInfoInputs.cache
@@ -23,3 +22,4 @@ C:\bdiProva-senior\bdiApi\obj\Debug\netcoreapp2.2\bdiApi.csproj.CopyComplete
 C:\bdiProva-senior\bdiApi\obj\Debug\netcoreapp2.2\bdiApi.dll
 C:\bdiProva-senior\bdiApi\obj\Debug\netcoreapp2.2\bdiApi.pdb
 C:\bdiProva-senior\bdiApi\obj\Debug\netcoreapp2.2\bdiApi.genruntimeconfig.cache
+C:\bdiProva-senior\bdiApi\obj\Debug\netcoreapp2.2\bdiApi.csproj.CoreCompileInputs.cache

@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bdiRepositorio", "bdiReposi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bdiNegocios", "bdiNegocios\bdiNegocios.csproj", "{BEB3F69A-1817-4F57-AAA6-FEDA8F7B6791}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bdiTeste", "bdiTeste\bdiTeste.csproj", "{58DF9B23-62B3-453A-A1B3-BA6F64770C9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bdiTeste", "bdiTeste\bdiTeste.csproj", "{58DF9B23-62B3-453A-A1B3-BA6F64770C9C}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{D904D2D0-CBC4-43B5-996E-BC39D4071E5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{58DF9B23-62B3-453A-A1B3-BA6F64770C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58DF9B23-62B3-453A-A1B3-BA6F64770C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58DF9B23-62B3-453A-A1B3-BA6F64770C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D904D2D0-CBC4-43B5-996E-BC39D4071E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D904D2D0-CBC4-43B5-996E-BC39D4071E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D904D2D0-CBC4-43B5-996E-BC39D4071E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D904D2D0-CBC4-43B5-996E-BC39D4071E5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
