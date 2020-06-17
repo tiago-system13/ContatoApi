@@ -1,9 +1,0 @@
-C:\bdiProva-senior\bdiEntidades\bin\Debug\netcoreapp2.2\bdiEntidades.deps.json
-C:\bdiProva-senior\bdiEntidades\bin\Debug\netcoreapp2.2\bdiEntidades.dll
-C:\bdiProva-senior\bdiEntidades\bin\Debug\netcoreapp2.2\bdiEntidades.pdb
-C:\bdiProva-senior\bdiEntidades\obj\Debug\netcoreapp2.2\bdiEntidades.csprojAssemblyReference.cache
-C:\bdiProva-senior\bdiEntidades\obj\Debug\netcoreapp2.2\bdiEntidades.csproj.CoreCompileInputs.cache
-C:\bdiProva-senior\bdiEntidades\obj\Debug\netcoreapp2.2\bdiEntidades.AssemblyInfoInputs.cache
-C:\bdiProva-senior\bdiEntidades\obj\Debug\netcoreapp2.2\bdiEntidades.AssemblyInfo.cs
-C:\bdiProva-senior\bdiEntidades\obj\Debug\netcoreapp2.2\bdiEntidades.dll
-C:\bdiProva-senior\bdiEntidades\obj\Debug\netcoreapp2.2\bdiEntidades.pdb
