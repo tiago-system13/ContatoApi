@@ -1,0 +1,13 @@
+/db/obj
+/bin
+/obj
+/bdiApi/bin
+/bdiApi/obj
+/bdiEntidades/obj
+/bdiEntidades/bin
+/bdiNegocios/bin
+/bdiNegocios/obj
+/bdiRepositorio/bin
+/bdiRepositorio/obj
+/bdiTeste/bin
+/bdiTeste/obj

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bdiApi",
+    "\\bdiApi\\ci",
+    "\\bdiRepositorio\\Contextos",
+    "\\db",
+    "\\db\\dataset"
+  ],
+  "SelectedNode": "\\db\\dataset\\create_data_base.sql",
+  "PreviewInSolutionExplorer": false
+}
